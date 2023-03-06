@@ -7,7 +7,7 @@ UPDATE albums
 SET sales = sales * 10;
 
 SELECT name, sales
-AS 'This is the sales after they have been multipled by ten.'
+AS 'This is the sales after they have been multiplied by ten.'
 FROM albums;
 
 SELECT *
