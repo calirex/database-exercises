@@ -38,3 +38,5 @@ VALUES
 
 select * from albums;
 
+# INSERT INTO albums (artist, name, release_date, genre, sales)
+# VALUES ('Guns N'' Roses', 'Appetite for Destruction', 1987, 'Hard rock', 21.6);
